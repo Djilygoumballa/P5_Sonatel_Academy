@@ -141,4 +141,5 @@ put("saissez le bon prenom"))
     while cla==False:
         classe=str(input("saissez la bonne classe"))
         cla=modiclas(classe)
+    note=str(input(""))
     a.append([code,numero,nom,prenom,datedenaissance,classe])
