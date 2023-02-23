@@ -1,6 +1,8 @@
 import csv
 from datetime import datetime
 from mesfonction import *
+
+
 vdg=[]
 vd=[]
 vig=[]
@@ -58,6 +60,7 @@ while choix in[1,2,3,4,5,]:
     if choix==1:
         ch=input("choisir les informations à afficher: valides ou invalides: ")
         if ch== "valides":
+            #print(tabulate(vdg,headers=['CODE','Numero','Nom','Prénom','Date de naissance','Classe','Note']))
             for i in vdg:
                 for j in range (len(i)):
                     print(i[j],end=(20-len(i[j]))*' ')

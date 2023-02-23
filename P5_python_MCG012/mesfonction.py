@@ -98,7 +98,7 @@ def note(a):
             tab.append(matiere)
             # tab.append(moygen)
     return tab
-print(note(nt))
+#print(note(nt))
 
 
 def recher(s,tab):
@@ -140,5 +140,11 @@ def ajouter(a):
     while cla==False:
         classe=str(input("saissez la bonne classe"))
         cla=modiclas(classe)
-    note=str(input("saissez des notes"))
-    a.append([code,numero,nom,prenom,datedenaissance,classe])
+    
+    notes=str(input("saissez des matières séparés par des # et leurs notes par des :"))
+    noo=note(notes)
+    while noo==False:
+        notes=str(input("saissez des matières séparés par des # et leurs notes par des : "))
+        noo=note(notes)
+        
+    a.append([code,numero,nom,prenom,datedenaissance,classe,notes])
