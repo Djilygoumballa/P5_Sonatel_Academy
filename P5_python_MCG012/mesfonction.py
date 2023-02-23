@@ -141,10 +141,10 @@ def ajouter(a):
         classe=str(input("saissez la bonne classe"))
         cla=modiclas(classe)
     
-    notes=str(input("saissez des matières séparés par des # et leurs notes par des :"))
-    noo=note(notes)
-    while noo==False:
-        notes=str(input("saissez des matières séparés par des # et leurs notes par des : "))
-        noo=note(notes)
+    # notes=(input("saissez des matières séparés par des # et leurs notes par des :"))
+    # noo=note(notes)
+    # while noo==False:
+    #     notes=(input("saissez des matières séparés par des # et leurs notes par des : "))
+    #     noo=note(notes)
         
-    a.append([code,numero,nom,prenom,datedenaissance,classe,notes])
+    a.append([code,numero,nom,prenom,datedenaissance,classe,])
