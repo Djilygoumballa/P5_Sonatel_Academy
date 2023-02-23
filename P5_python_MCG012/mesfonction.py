@@ -128,8 +128,7 @@ def ajouter(a):
     prenom=str(input("saissez le prenom"))
     pre=prevalid(prenom)
     while pre==False:
-        prenom=str(in
-put("saissez le bon prenom"))
+        prenom=str(input("saissez le bon prenom"))
         pre=prevalid(prenom)
     datedenaissance=str(input("saissez la date de naissance"))
     dat=validdate(datedenaissance)
@@ -141,5 +140,5 @@ put("saissez le bon prenom"))
     while cla==False:
         classe=str(input("saissez la bonne classe"))
         cla=modiclas(classe)
-    note=str(input(""))
+    note=str(input("saissez des notes"))
     a.append([code,numero,nom,prenom,datedenaissance,classe])
