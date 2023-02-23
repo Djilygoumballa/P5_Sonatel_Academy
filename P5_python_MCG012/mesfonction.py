@@ -128,7 +128,8 @@ def ajouter(a):
     prenom=str(input("saissez le prenom"))
     pre=prevalid(prenom)
     while pre==False:
-        prenom=str(input("saissez le bon prenom"))
+        prenom=str(in
+put("saissez le bon prenom"))
         pre=prevalid(prenom)
     datedenaissance=str(input("saissez la date de naissance"))
     dat=validdate(datedenaissance)
