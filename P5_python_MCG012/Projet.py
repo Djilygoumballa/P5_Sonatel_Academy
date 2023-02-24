@@ -1,4 +1,5 @@
 import csv
+from tabulate import tabulate
 from datetime import datetime
 from mesfonction import *
 
@@ -10,6 +11,8 @@ vi=[]
 with open('Donnees_Projet_Python_DataC5.csv','r+') as f:
     lect=csv.reader(f)
     for i in lect:
+        #infos=["Code","Numero","Nom","Prenom","Date de Naissance","Classe","Note"]
+    #print(infos)
         i[6]=i[6].strip()
         i[6]=i[6].replace('"','').replace(' ','')
         #print(i[6])
@@ -26,6 +29,7 @@ with open('Donnees_Projet_Python_DataC5.csv','r+') as f:
         nott= note(i[6])
         #print(nott)
         if (numero==True and nom==True and prenom==True and date==True and classe==True and nott!=False):   
+            #vd.append(infos)
             vd.append(i[1])
             vd.append(i[2])
             vd.append(i[3])
@@ -60,16 +64,17 @@ while choix in[1,2,3,4,5,]:
     if choix==1:
         ch=input("choisir les informations à afficher: valides ou invalides: ")
         if ch== "valides":
-            #print(tabulate(vdg,headers=['CODE','Numero','Nom','Prénom','Date de naissance','Classe','Note']))
-            for i in vdg:
-                for j in range (len(i)):
-                    print(i[j],end=(20-len(i[j]))*' ')
-                print("\n")
-                #print(len(vdg))
+            print(tabulate(vdg,headers=['Numero','Nom','Prénom','Date de naissance','Classe','Note']))
+            # for i in vdg:
+            #     for j in range (len(i)):
+            #         print(i[j],end=(15-len(i[j]))*' ')
+            #     print("\n")
+            #     #print(len(vdg))
         elif ch== "invalides":
-            for i in vig:
-                print(i)
-            print("\n")
+            print(tabulate(vig,headers=['Numero','Nom','Prénom','Date de naissance','Classe','Note']))
+            # for i in vig:
+            #     print(i)
+            # print("\n")
         else:
             print("Regardez bien votre choix")
 
@@ -78,14 +83,6 @@ while choix in[1,2,3,4,5,]:
         recher(B,vdg)
     elif choix==3:
         ajouter(vdg)
-    #    elif choix==4:
-    #        p=input("le prenom")
-    #        N=input("le nom")
-    #        affnum(p,N,tab)
-    #    elif choix==5:
-    #        p=input("le prenom")
-    #         N=input("le nom")
-    #          modnum(p,N,tab)
     print("----------------------MENU--------------------------")
     print("1-afficher les informations: ")
     print("2-afficher une information (par son numéro)")
