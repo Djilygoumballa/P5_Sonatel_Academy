@@ -21,8 +21,7 @@ for i in donne:
     dico={}
     i["Classe"]=i["Classe"].strip()
     for j in i["Classe"]:
-        if i["Classe"][0] in ['6','5','4','3'] and i["Classe"][-1] in ['A','B']:
-            i["Classe"]=i["Classe"][0]+"em"+i["Classe"][-1]
+        i["Classe"]=i["Classe"][0]+"em"+i["Classe"][-1]
     numero=numerovalid(i["Numero"])
     nom=nomvalid(i["Nom"])
     prenom=prevalid(i["Pr\u00e9nom"])

@@ -41,7 +41,7 @@ def modiclas(classe):
             classe=classe.strip()
             classe=classe[0]+"em"+classe[-1]
             return True
-        return False
+    return False
 
     
 def validdate(date):

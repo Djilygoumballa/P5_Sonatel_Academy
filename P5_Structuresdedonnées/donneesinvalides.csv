@@ -5,7 +5,7 @@
         "Nom": "CISSE",
         "Pr\u00e9nom": "Baba",
         "Date de naissance": "16/08/99",
-        "Classe": "6emA",
+        "Classe": "6ieme A",
         "Note": [
             [
                 "Math",
@@ -57,7 +57,7 @@
         "Nom": "NDIAYE",
         "Pr\u00e9nom": "mbaye",
         "Date de naissance": "12/09/00",
-        "Classe": "5emA",
+        "Classe": "5ieme A",
         "Note": [
             [
                 "Math",
@@ -109,7 +109,7 @@
         "Nom": "GAYE",
         "Pr\u00e9nom": "Awa",
         "Date de naissance": "13/04/12",
-        "Classe": "3emA",
+        "Classe": "3iemeA",
         "Note": [
             [
                 "Math",
@@ -161,7 +161,7 @@
         "Nom": "NDAO",
         "Pr\u00e9nom": "Ndiaga",
         "Date de naissance": "12/04/00",
-        "Classe": "6emB",
+        "Classe": "6iemeB",
         "Note": [
             [
                 "Math",
@@ -213,7 +213,7 @@
         "Nom": "DEME",
         "Pr\u00e9nom": "Saliou",
         "Date de naissance": "19/03/05",
-        "Classe": "5emB",
+        "Classe": "5iemeB",
         "Note": [
             [
                 "Math",
@@ -265,7 +265,7 @@
         "Nom": "Ngadeu",
         "Pr\u00e9nom": "Dinka",
         "Date de naissance": "03/12/01",
-        "Classe": "3emB",
+        "Classe": "3iemeB",
         "Note": [
             [
                 "Math",
@@ -561,7 +561,7 @@
         "Nom": "SOW",
         "Pr\u00e9nom": "Mariama",
         "Date de naissance": "12/18/2017",
-        "Classe": "4emB",
+        "Classe": "4eme B",
         "Note": [
             [
                 "Math",
@@ -649,7 +649,7 @@
         "Nom": "Sow",
         "Pr\u00e9nom": "Mari",
         "Date de naissance": "28/12/01",
-        "Classe": "6emA",
+        "Classe": "6eme A",
         "Note": [
             [
                 "Math",
@@ -1081,7 +1081,7 @@
         "Nom": "Missari",
         "Pr\u00e9nom": "Koumpa",
         "Date de naissance": "31/09/2014",
-        "Classe": "3emB",
+        "Classe": "3eme B",
         "Note": [
             [
                 "Math",
@@ -1134,7 +1134,7 @@
         "Nom": "Ndol",
         "Pr\u00e9nom": "Gueye",
         "Date de naissance": "30/09/06",
-        "Classe": "5emB",
+        "Classe": "5eme B",
         "Note": [
             [
                 "Math",
@@ -1187,7 +1187,7 @@
         "Nom": "Moose",
         "Pr\u00e9nom": "Rodriguez",
         "Date de naissance": "01-22-1999",
-        "Classe": "5emB",
+        "Classe": "5eme B",
         "Note": [
             [
                 "Fran\u00e7ais",
@@ -1291,7 +1291,7 @@
         "Nom": "Mayoro",
         "Pr\u00e9nom": "Diop",
         "Date de naissance": "14 05 2002",
-        "Classe": "6emB",
+        "Classe": "6emeB",
         "Note": [
             [
                 "Fran\u00e7ais",
@@ -1757,7 +1757,7 @@
         "Nom": "SECK",
         "Pr\u00e9nom": "Modou",
         "Date de naissance": "03/01/99",
-        "Classe": "5emB",
+        "Classe": "5\u00e8meB",
         "Note": [
             [
                 "Math",
@@ -1968,7 +1968,7 @@
         "Nom": "DIAW",
         "Pr\u00e9nom": "FARA",
         "Date de naissance": "09/06/95",
-        "Classe": "6emA",
+        "Classe": "6eme A",
         "Note": [
             [
                 "Fran\u00e7ais",
@@ -2020,7 +2020,7 @@
         "Nom": "NDIOUR",
         "Pr\u00e9nom": "LEMOU",
         "Date de naissance": "12/07/96",
-        "Classe": "3emA",
+        "Classe": "3eme A",
         "Note": [
             [
                 "PC",
@@ -2072,7 +2072,7 @@
         "Nom": "FAYE",
         "Pr\u00e9nom": "BIRAM",
         "Date de naissance": "23/03/99",
-        "Classe": "3emB",
+        "Classe": "3eme B",
         "Note": [
             [
                 "PC",
@@ -2229,7 +2229,7 @@
         "Nom": "DIENE",
         "Pr\u00e9nom": "DALY",
         "Date de naissance": "12/10/97",
-        "Classe": "4emB",
+        "Classe": "4eme B",
         "Note": [
             [
                 "PC",
@@ -2290,7 +2290,7 @@
         "Nom": "FAYE",
         "Pr\u00e9nom": "SIDI",
         "Date de naissance": "12/11/93",
-        "Classe": "3emA",
+        "Classe": "3eme A",
         "Note": [
             [
                 "PC",
@@ -2342,7 +2342,7 @@
         "Nom": "SENE",
         "Pr\u00e9nom": "DOMINIQUE",
         "Date de naissance": "24/01/98",
-        "Classe": "3emA",
+        "Classe": "3eme A",
         "Note": [
             [
                 "Math",
@@ -2664,7 +2664,7 @@
         "Nom": "CISSE",
         "Pr\u00e9nom": "Di\u00e9gane",
         "Date de naissance": "02/05/32",
-        "Classe": "5emA",
+        "Classe": "5emeA",
         "Note": false
     },
     {
@@ -2673,7 +2673,7 @@
         "Nom": "SENGHOR",
         "Pr\u00e9nom": "Mbegane",
         "Date de naissance": "12/05/68",
-        "Classe": "4emA",
+        "Classe": "4emeA",
         "Note": false
     },
     {
@@ -2682,7 +2682,7 @@
         "Nom": "MARA",
         "Pr\u00e9nom": "Souma",
         "Date de naissance": "17,11,1921",
-        "Classe": "3emA",
+        "Classe": "3emeA",
         "Note": false
     },
     {
@@ -2691,7 +2691,7 @@
         "Nom": "CONDOUL",
         "Pr\u00e9nom": "Sangoul",
         "Date de naissance": "07|06|1945",
-        "Classe": "6emA",
+        "Classe": "6emeA",
         "Note": false
     },
     {
@@ -2700,7 +2700,7 @@
         "Nom": "TAMBEDOU",
         "Pr\u00e9nom": "NiouKH",
         "Date de naissance": "18/12/99",
-        "Classe": "4emB",
+        "Classe": "4emeB",
         "Note": false
     },
     {
@@ -2709,7 +2709,7 @@
         "Nom": "SARR",
         "Pr\u00e9nom": "Mbissine",
         "Date de naissance": "01/12/96",
-        "Classe": "5emB",
+        "Classe": "5emeB",
         "Note": false
     },
     {
@@ -2718,7 +2718,7 @@
         "Nom": "DIOUF",
         "Pr\u00e9nom": "MBathiou",
         "Date de naissance": "14-25-13",
-        "Classe": "6emB",
+        "Classe": "6emeB",
         "Note": false
     },
     {
@@ -2727,7 +2727,7 @@
         "Nom": "DEME",
         "Pr\u00e9nom": "Ndew",
         "Date de naissance": "15/02/56",
-        "Classe": "6emB",
+        "Classe": "6emeB",
         "Note": false
     },
     {
@@ -2736,7 +2736,7 @@
         "Nom": "KOITA",
         "Pr\u00e9nom": "Fatou",
         "Date de naissance": "15/11/78",
-        "Classe": "4emB",
+        "Classe": "4emeB",
         "Note": false
     },
     {
@@ -2745,7 +2745,7 @@
         "Nom": "LABOU",
         "Pr\u00e9nom": "Pon",
         "Date de naissance": "17/06/02",
-        "Classe": "5emA",
+        "Classe": "5emeA",
         "Note": false
     },
     {
@@ -2754,7 +2754,7 @@
         "Nom": "Gueye",
         "Pr\u00e9nom": "Moussa",
         "Date de naissance": "01/01/00",
-        "Classe": "6emA",
+        "Classe": "6eme A",
         "Note": [
             [
                 "MATH",
@@ -2806,7 +2806,7 @@
         "Nom": "DIOUF",
         "Pr\u00e9nom": "BALLA",
         "Date de naissance": "02/01/00",
-        "Classe": "6emA",
+        "Classe": "6eme A",
         "Note": [
             [
                 "MATH",
@@ -2858,7 +2858,7 @@
         "Nom": "DIOP",
         "Pr\u00e9nom": "MODOU",
         "Date de naissance": "04/01/00",
-        "Classe": "6emA",
+        "Classe": "6eme A",
         "Note": [
             [
                 "MATH",
@@ -2910,7 +2910,7 @@
         "Nom": "FALL",
         "Pr\u00e9nom": "SOBLE",
         "Date de naissance": "05/01/00",
-        "Classe": "6emA",
+        "Classe": "6eme A",
         "Note": [
             [
                 "MATH",
@@ -2962,7 +2962,7 @@
         "Nom": "GAYE",
         "Pr\u00e9nom": "PATH\u00c9",
         "Date de naissance": "06/01/00",
-        "Classe": "6emA",
+        "Classe": "6eme A",
         "Note": [
             [
                 "MATH",
@@ -3014,7 +3014,7 @@
         "Nom": "HANN",
         "Pr\u00e9nom": "JIM",
         "Date de naissance": "07/01/00",
-        "Classe": "6emA",
+        "Classe": "6eme A",
         "Note": [
             [
                 "MATH",
@@ -3066,7 +3066,7 @@
         "Nom": "KA",
         "Pr\u00e9nom": "LAMINE",
         "Date de naissance": "09/01/00",
-        "Classe": "6emA",
+        "Classe": "6eme A",
         "Note": [
             [
                 "MATH",
@@ -3118,7 +3118,7 @@
         "Nom": "LOUM",
         "Pr\u00e9nom": "MOUSSA",
         "Date de naissance": "10/01/00",
-        "Classe": "6emA",
+        "Classe": "6eme A",
         "Note": [
             [
                 "MATH",
@@ -3170,7 +3170,7 @@
         "Nom": "BA",
         "Pr\u00e9nom": "MODOU",
         "Date de naissance": "12/12/05",
-        "Classe": "3emA",
+        "Classe": "3 em A",
         "Note": [
             [
                 "MATH",
@@ -3222,7 +3222,7 @@
         "Nom": "BODIAN",
         "Pr\u00e9nom": "FATOU",
         "Date de naissance": "11/04/06",
-        "Classe": "3emB",
+        "Classe": "3 em B",
         "Note": [
             [
                 "MATH",
@@ -3274,7 +3274,7 @@
         "Nom": "CAMARA",
         "Pr\u00e9nom": "PAPE",
         "Date de naissance": "04/02/09",
-        "Classe": "4emB",
+        "Classe": "4 em B",
         "Note": [
             [
                 "MATH",
@@ -3326,7 +3326,7 @@
         "Nom": "CISSE",
         "Pr\u00e9nom": "PHILO",
         "Date de naissance": "25/03/10",
-        "Classe": "5emB",
+        "Classe": "5 em B",
         "Note": [
             [
                 "MATH",
@@ -3378,7 +3378,7 @@
         "Nom": "DIOP",
         "Pr\u00e9nom": "KHADIM",
         "Date de naissance": "04/02/11",
-        "Classe": "6emB",
+        "Classe": "6 em B",
         "Note": [
             [
                 "MATH",
@@ -3430,7 +3430,7 @@
         "Nom": "FALL",
         "Pr\u00e9nom": "KATY",
         "Date de naissance": "05/11/10",
-        "Classe": "6emA",
+        "Classe": "6 em A",
         "Note": [
             [
                 "MATH",
@@ -3482,7 +3482,7 @@
         "Nom": "NDIAYE",
         "Pr\u00e9nom": "SOKHNA",
         "Date de naissance": "06/08/07",
-        "Classe": "4emB",
+        "Classe": "4 em B",
         "Note": [
             [
                 "MATH",
@@ -3534,7 +3534,7 @@
         "Nom": "MBAYE",
         "Pr\u00e9nom": "CHEIKH",
         "Date de naissance": "07/06/07",
-        "Classe": "4emA",
+        "Classe": "4 em A",
         "Note": [
             [
                 "MATH",
@@ -3586,7 +3586,7 @@
         "Nom": "POUYE",
         "Pr\u00e9nom": "PALLA",
         "Date de naissance": "08/08/07",
-        "Classe": "5emB",
+        "Classe": "5 em B",
         "Note": [
             [
                 "MATH",
@@ -3638,7 +3638,7 @@
         "Nom": "OUATARA",
         "Pr\u00e9nom": "THIERNO",
         "Date de naissance": "09/09/07",
-        "Classe": "5emA",
+        "Classe": "5 em A",
         "Note": [
             [
                 "MATH",
@@ -3984,7 +3984,7 @@
         "Nom": "ndiaye",
         "Pr\u00e9nom": "abdou",
         "Date de naissance": "21/03/05",
-        "Classe": "4emA",
+        "Classe": "4 emA",
         "Note": false
     },
     {
@@ -4002,7 +4002,7 @@
         "Nom": "fall",
         "Pr\u00e9nom": "saly",
         "Date de naissance": "06/12/07",
-        "Classe": "6emB",
+        "Classe": "6 em B",
         "Note": false
     },
     {
@@ -4011,7 +4011,7 @@
         "Nom": "Lo",
         "Pr\u00e9nom": "amy",
         "Date de naissance": "08/03/03",
-        "Classe": "3emA",
+        "Classe": "3 em A",
         "Note": false
     },
     {
@@ -4029,7 +4029,7 @@
         "Nom": "sambou",
         "Pr\u00e9nom": "jean",
         "Date de naissance": "19/05/06",
-        "Classe": "5emB",
+        "Classe": "5em B",
         "Note": false
     },
     {
@@ -4038,7 +4038,7 @@
         "Nom": "sene",
         "Pr\u00e9nom": "jeannette",
         "Date de naissance": "20/12/07",
-        "Classe": "6emB",
+        "Classe": "6em B",
         "Note": false
     },
     {
@@ -4047,7 +4047,7 @@
         "Nom": "sy",
         "Pr\u00e9nom": "pathe",
         "Date de naissance": "31 1 2006",
-        "Classe": "5emA",
+        "Classe": "5 emA",
         "Note": false
     },
     {
@@ -4056,7 +4056,7 @@
         "Nom": "gueye",
         "Pr\u00e9nom": "modou",
         "Date de naissance": "03/01/02",
-        "Classe": "3emB",
+        "Classe": "3em B",
         "Note": false
     },
     {
@@ -4065,7 +4065,7 @@
         "Nom": "BA",
         "Pr\u00e9nom": "MOUSSA",
         "Date de naissance": "05/11/10",
-        "Classe": "6emA",
+        "Classe": "6em A",
         "Note": false
     },
     {
@@ -4074,7 +4074,7 @@
         "Nom": "DIOUF",
         "Pr\u00e9nom": "Ibou",
         "Date de naissance": "07/11/94",
-        "Classe": "5emB",
+        "Classe": "5 em B",
         "Note": [
             [
                 "Math",
@@ -4127,7 +4127,7 @@
         "Nom": "T8UR5",
         "Pr\u00e9nom": "Kine",
         "Date de naissance": "12.32.1990",
-        "Classe": "4emA",
+        "Classe": "4 em A",
         "Note": [
             [
                 "SVT",
@@ -4186,7 +4186,7 @@
         "Nom": "Fall",
         "Pr\u00e9nom": "H654F",
         "Date de naissance": "26/12/88",
-        "Classe": "5emB",
+        "Classe": "5 eme B",
         "Note": [
             [
                 "SVT",
@@ -4304,7 +4304,7 @@
         "Nom": "Dingka",
         "Pr\u00e9nom": "Kaba",
         "Date de naissance": "12/05/97",
-        "Classe": "4emA",
+        "Classe": "4 eme A",
         "Note": [
             [
                 "SVT",
@@ -4422,7 +4422,7 @@
         "Nom": "Diop",
         "Pr\u00e9nom": "Sokhna",
         "Date de naissance": "23/08/92",
-        "Classe": "4emA",
+        "Classe": "4 eme A",
         "Note": [
             [
                 "SVT",
@@ -4481,7 +4481,7 @@
         "Nom": "Dioum",
         "Pr\u00e9nom": "Khoudia",
         "Date de naissance": "12/09/95",
-        "Classe": "6emB",
+        "Classe": "6 eme B",
         "Note": false
     },
     {
@@ -4549,7 +4549,7 @@
         "Nom": "Fakha",
         "Pr\u00e9nom": "Fatou",
         "Date de naissance": "23/09/95",
-        "Classe": "3emA",
+        "Classe": "3 eme A",
         "Note": [
             [
                 "SVT",
@@ -4608,7 +4608,7 @@
         "Nom": "Drame",
         "Pr\u00e9nom": "Rama",
         "Date de naissance": "12/03/92",
-        "Classe": "5emB",
+        "Classe": "5 eme B",
         "Note": [
             [
                 "SVT",
