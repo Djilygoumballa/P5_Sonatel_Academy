@@ -8,8 +8,9 @@ def numerovalid(numero):
             if numero.isupper()==True:
                     if any(cl.isdigit() for cl in numero) == True:
                     
-                        return True
-    return False
+                        return True,numero
+    return "le numero n'est pas valide"
+print(numerovalid("GFD3G8G"))
 
 ##focntion qui permet de verifier la validité des prenom
 def prevalid(prenom):

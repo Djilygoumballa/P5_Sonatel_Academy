@@ -78,8 +78,6 @@ def note(a):
         s=0
         nbr=0
         moy=1
-        mm=0
-        d=0
         if matiere==""  or matiere==" " or len(matiere)<= 1:
             return False   
         for i in range (1,len(matiere)):

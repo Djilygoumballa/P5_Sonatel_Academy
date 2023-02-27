@@ -1,0 +1,943 @@
+<?xml version='1.0' encoding='ISO-8859-1' standalone='no' ?>
+ <ETUDIANTS>
+            <Etudiant>
+                <Code>AAD004</Code>
+                <Numero>LIHGFR0</Numero>
+                <Nom>Diallo</Nom>
+                <Prenom>Nourou</Prenom>
+                <Date_de_naissance>02/01/12</Date_de_naissance>
+                <Classe>6emA</Classe>
+                <Note>[['Math', '14', '15', '10', 11.5], ['Francais', '12', '13', '13', 12.83], ['Anglais', '15', '16', '17', 16.5], ['PC', '14', '13', '07', 9.17], ['SVT', '15', '19', '10', 12.33], ['HG', '13', '12', '15', 14.17]]</Note>
+            </Etudiant>
+        
+            <Etudiant>
+                <Code>AAD005</Code>
+                <Numero>40DKG6T</Numero>
+                <Nom>Diallo</Nom>
+                <Prenom>awa</Prenom>
+                <Date_de_naissance>21/10/04</Date_de_naissance>
+                <Classe>6emA</Classe>
+                <Note>[['PC', '17', '20', '18', '15', 16.11], ['Math', '15', '16.15', '13', '17', 16.24], ['Francais', '11', '13', 12.33], ['Anglais', '14', '13', 13.33], ['SVT', '13', '11', '15', '11', '12', 12.17], ['HG', '15', '13', 13.67]]</Note>
+            </Etudiant>
+        
+            <Etudiant>
+                <Code>AAD005</Code>
+                <Numero>44DSW78</Numero>
+                <Nom>Ndiaye</Nom>
+                <Prenom>Sidy</Prenom>
+                <Date_de_naissance>19/01/05</Date_de_naissance>
+                <Classe>4emB</Classe>
+                <Note>[['PC', '7', '10', '9', '10', 9.56], ['Math', '11', '10', '12', '10', 10.33], ['Francais', '14', '15', 14.67], ['Anglais', '14', '14', 14.0], ['SVT', '14', '12', '10', '10', 10.67], ['HG', '14', '14', 14.0]]</Note>
+            </Etudiant>
+        
+            <Etudiant>
+                <Code>AAD005</Code>
+                <Numero>20LH7BG</Numero>
+                <Nom>FAYE</Nom>
+                <Prenom>Fallou</Prenom>
+                <Date_de_naissance>19/04/02</Date_de_naissance>
+                <Classe>4emA</Classe>
+                <Note>[['PC', '8', '13', '11', '12', 11.56], ['Math', '10', '10.10', '11', '10', 10.12], ['Francais', '12', '13', 12.67], ['Anglais', '10', '11', 10.67], ['SVT', '12', '15', '10', '9', '10', 10.5], ['HG', '8', '10', 9.33]]</Note>
+            </Etudiant>
+        
+            <Etudiant>
+                <Code>AAD005</Code>
+                <Numero>8D805GT</Numero>
+                <Nom>Diop</Nom>
+                <Prenom>Seyni</Prenom>
+                <Date_de_naissance>29/09/05</Date_de_naissance>
+                <Classe>3emA</Classe>
+                <Note>[['Math', '10', '11', '15', 13.5], ['Francais', '7', '12', '8', '13', 11.67], ['Anglais', '13.5', '9', '15', 13.75], ['PC', '11', '9', 9.67], ['SVT', '12', '9', '16', '11', '12', 12.0], ['HG', '10', '13', 12.0]]</Note>
+            </Etudiant>
+        
+            <Etudiant>
+                <Code>AAD005</Code>
+                <Numero>9HBW36T</Numero>
+                <Nom>Ba</Nom>
+                <Prenom>Aliou</Prenom>
+                <Date_de_naissance>01/01/06</Date_de_naissance>
+                <Classe>5emA</Classe>
+                <Note>[['Math', '15', '16', '15', 15.17], ['Francais', '10', '11', '10', '9', 9.44], ['Anglais', '14.12', '13', '15', 14.52], ['PC', '15', '15', 15.0], ['SVT', '12', '10', '17', '13', '12', 12.33], ['HG', '17', '14', 15.0]]</Note>
+            </Etudiant>
+        
+            <Etudiant>
+                <Code>AAD005</Code>
+                <Numero>W8NNJ6T</Numero>
+                <Nom>Ndoye</Nom>
+                <Prenom>Ousmane</Prenom>
+                <Date_de_naissance>09/04/04</Date_de_naissance>
+                <Classe>5emB</Classe>
+                <Note>[['Math', '20', '18', '18', 18.33], ['Francais', '12', '14', '14', '13', 13.11], ['Anglais', '15.16', '16', '14', 14.53], ['PC', '17', '18', 17.67], ['SVT', '14', '15', '15', '16', '14', 14.33], ['HG', '13', '16', 15.0]]</Note>
+            </Etudiant>
+        
+            <Etudiant>
+                <Code>AAD005</Code>
+                <Numero>23YLTXT</Numero>
+                <Nom>Baal</Nom>
+                <Prenom>Thierno</Prenom>
+                <Date_de_naissance>22/01/06</Date_de_naissance>
+                <Classe>3emA</Classe>
+                <Note>[['PC', '13', '11', '13', 12.67], ['Math', '12', '14', '15', '8', 9.89], ['Francais', '11', '11', 11.0], ['Anglais', '12', '14', 13.33], ['SVT', '12', '12', '10', '10', 10.44], ['HG', '8', '10', 9.33]]</Note>
+            </Etudiant>
+        
+            <Etudiant>
+                <Code>AAD005</Code>
+                <Numero>48DKG8T</Numero>
+                <Nom>Baal</Nom>
+                <Prenom>Boubou</Prenom>
+                <Date_de_naissance>26/04/03</Date_de_naissance>
+                <Classe>4emB</Classe>
+                <Note>[['PC', '17', '11', '8', '11', 11.33], ['Math', '12', '10', '11', '15', 13.67], ['Francais', '12', '16', 14.67], ['Anglais', '12', '12', 12.0], ['SVT', '13', '15', '11', '14', 13.67], ['HG', '12', '17', 15.33]]</Note>
+            </Etudiant>
+        
+            <Etudiant>
+                <Code>AAD005</Code>
+                <Numero>Q7XVP6G</Numero>
+                <Nom>Seck</Nom>
+                <Prenom>Bineta</Prenom>
+                <Date_de_naissance>12/02/05</Date_de_naissance>
+                <Classe>3emA</Classe>
+                <Note>[['PC', '14', '8', '16', 14.33], ['Math', '12', '16', '11', '12', 12.33], ['Francais', '13', '16', 15.0], ['Anglais', '10', '10', 10.0], ['SVT', '13', '13', '12', '8', 9.56], ['HG', '10', '9', 9.33]]</Note>
+            </Etudiant>
+        
+            <Etudiant>
+                <Code>AAD005</Code>
+                <Numero>M67KQV7</Numero>
+                <Nom>Correa</Nom>
+                <Prenom>Albert</Prenom>
+                <Date_de_naissance>26/12/03</Date_de_naissance>
+                <Classe>6emA</Classe>
+                <Note>[['PC', '11', '10', '9', '10', 10.0], ['Math', '11', '10', '12', '10', 10.33], ['Francais', '10', '9', 9.33], ['SVT', '10', '12', '8', '12', 11.33], ['HG', '11', '13', 12.33]]</Note>
+            </Etudiant>
+        
+            <Etudiant>
+                <Code>AAD007</Code>
+                <Numero>H18AC4W</Numero>
+                <Nom>BA</Nom>
+                <Prenom>Mouhamed</Prenom>
+                <Date_de_naissance>14/01/05</Date_de_naissance>
+                <Classe>6emA</Classe>
+                <Note>[['Math', '10', '11', '15', 13.5], ['Francais', '7', '12', '8', '13', 11.67], ['Anglais', '13.5', '9', '15', 13.75], ['PC', '11', '9', 9.67], ['SVT', '12', '9', '16', '11', '12', 12.0], ['HG', '10', '13', 12.0]]</Note>
+            </Etudiant>
+        
+            <Etudiant>
+                <Code>AAD007</Code>
+                <Numero>EPJHQQ5</Numero>
+                <Nom>DIAW</Nom>
+                <Prenom>Fallou</Prenom>
+                <Date_de_naissance>12/08/06</Date_de_naissance>
+                <Classe>3emB</Classe>
+                <Note>[['PC', '11', '9', 9.67], ['   Math', '12', '14.5', '11', '13', 12.83], ['Francais', '14', '12', '13', 13.0], ['Anglais', '12.8', '15', 14.27], ['SVT', '10', '9', '16', '13', '12', 12.0], ['HG', '10', '16', 14.0]]</Note>
+            </Etudiant>
+        
+            <Etudiant>
+                <Code>AAD007</Code>
+                <Numero>KM729R9</Numero>
+                <Nom>NDIAYE</Nom>
+                <Prenom>Marie</Prenom>
+                <Date_de_naissance>19/02/07</Date_de_naissance>
+                <Classe>3emA</Classe>
+                <Note>[['PC', '11', '9', 9.67], ['   Math', '12', '14.5', '11', '13', 12.83], ['Francais', '4', '11', '13', 11.17], ['Anglais', '13.8', '15', 14.6], ['SVT', '12', '9', '16', '11', '12', 12.0], ['HG', '11', '13', 12.33]]</Note>
+            </Etudiant>
+        
+            <Etudiant>
+                <Code>AAD007</Code>
+                <Numero>Q7U2XFP</Numero>
+                <Nom>DEME</Nom>
+                <Prenom>Abdou</Prenom>
+                <Date_de_naissance>16/01/04</Date_de_naissance>
+                <Classe>4emA</Classe>
+                <Note>[['Math', '10', '14.5', '11', '13', '16', 14.71], ['PC', '11', '9', 9.67], ['Francais', '4', '11', '13', 11.17], ['SVT', '12', '9', '16', '11', '12', 12.0], ['HG', '10', '13', 12.0], ['Anglais', '13.5', '15', 14.5]]</Note>
+            </Etudiant>
+        
+            <Etudiant>
+                <Code>AAD007</Code>
+                <Numero>0747PMJ</Numero>
+                <Nom>Ndao</Nom>
+                <Prenom>Baye Ndiaga</Prenom>
+                <Date_de_naissance>08/08/08</Date_de_naissance>
+                <Classe>5emB</Classe>
+                <Note>[['SVT', '13', '9', '11', '14', 13.0], ['HG', '10', '13', 12.0], ['Math', '12', '14.5', '11', '13', 12.83], ['Francais', '8', '11', '13', 11.83], ['Anglais', '13.5', '15', 14.5], ['PC', '13', '11', '9', 10.0]]</Note>
+            </Etudiant>
+        
+            <Etudiant>
+                <Code>AAD007</Code>
+                <Numero>18G9C4L</Numero>
+                <Nom>DIEYE</Nom>
+                <Prenom>Abdoulaye</Prenom>
+                <Date_de_naissance>01/01/02</Date_de_naissance>
+                <Classe>6emB</Classe>
+                <Note>[['PC', '11', '9', 9.67], ['   Math', '12', '14.5', '11', '13', 12.83], ['Francais', '4', '11', '13', 11.17], ['Anglais', '13.8', '15', 14.6], ['SVT', '12', '9', '16', '11', '12', 12.0], ['HG', '11', '13', 12.33]]</Note>
+            </Etudiant>
+        
+            <Etudiant>
+                <Code>AAD007</Code>
+                <Numero>UQI7FN8</Numero>
+                <Nom>Cyrille </Nom>
+                <Prenom>Keys</Prenom>
+                <Date_de_naissance>07/11/07</Date_de_naissance>
+                <Classe>4emA</Classe>
+                <Note>[['Math', '9', '10.5', '11', '13', '16', 14.29], ['PC', '12', '19', 16.67], ['Francais', '10', '11', '13', 12.17], ['SVT', '15', '9', '16', '11', '12', 12.25], ['HG', '13', '13', 13.0], ['Anglais', '13.12', '15', 14.37]]</Note>
+            </Etudiant>
+        
+            <Etudiant>
+                <Code>AAD007</Code>
+                <Numero>9H37AKZ</Numero>
+                <Nom>LOW</Nom>
+                <Prenom>Joakim</Prenom>
+                <Date_de_naissance>20/12/02</Date_de_naissance>
+                <Classe>4emA</Classe>
+                <Note>[['PC', '11', '9', 9.67], ['   Math', '12', '14.5', '11', '13', 12.83], ['Francais', '14', '12', '13', 13.0], ['Anglais', '12.8', '15', 14.27], ['SVT', '10', '9', '16', '13', '12', 12.0], ['HG', '10', '16', 14.0]]</Note>
+            </Etudiant>
+        
+            <Etudiant>
+                <Code>AAD007</Code>
+                <Numero>6691DTO</Numero>
+                <Nom>Ndour</Nom>
+                <Prenom>Karin</Prenom>
+                <Date_de_naissance>07/07/03</Date_de_naissance>
+                <Classe>5emB</Classe>
+                <Note>[['SVT', '15', '11', '11', '12', 12.11], ['HG', '6', '16', 12.67], ['Math', '10', '14.9', '11', '17', 15.32], ['Francais', '8', '13', '13', 12.17], ['Anglais', '18.5', '15', 16.17], ['PC', '7', '11', '9', 9.0]]</Note>
+            </Etudiant>
+        
+            <Etudiant>
+                <Code>AAD007</Code>
+                <Numero>8YM0304</Numero>
+                <Nom>KIBINDA</Nom>
+                <Prenom>Iniess</Prenom>
+                <Date_de_naissance>15/08/05</Date_de_naissance>
+                <Classe>6emA</Classe>
+                <Note>[['Math', '10', '11', '15', 13.5], ['Francais', '7', '9', '8', '13', 11.33], ['Anglais', '10.5', '9', '15', 13.25], ['PC', '10', '11', 10.67], ['SVT', '12', '11', '16', '8', '12', 11.92], ['HG', '10', '10', 10.0]]</Note>
+            </Etudiant>
+        
+            <Etudiant>
+                <Code>AAD22</Code>
+                <Numero>PONAAC0</Numero>
+                <Nom>Tine</Nom>
+                <Prenom>Jean</Prenom>
+                <Date_de_naissance>18/05/04</Date_de_naissance>
+                <Classe>3emA</Classe>
+                <Note>[['PC', '11', '9', 9.67], ['   Math', '12', '14.5', '11', '13', 12.83], ['Francais', '14', '12', '13', 13.0], ['Anglais', '12.8', '15', 14.27], ['SVT', '10', '9', '16', '13', '12', 12.0], ['HG', '10', '16', 14.0]]</Note>
+            </Etudiant>
+        
+            <Etudiant>
+                <Code>AAD22</Code>
+                <Numero>27WERUG</Numero>
+                <Nom>Fall</Nom>
+                <Prenom>Ouley</Prenom>
+                <Date_de_naissance>16/11/05</Date_de_naissance>
+                <Classe>3emB</Classe>
+                <Note>[['PC', '11', '19', 16.33], ['   Math', '02', '10.5', '11', '13', 11.28], ['Francais', '14', '11', '13', 12.83], ['Anglais', '03.8', '10', 7.93], ['SVT', '12', '9', '16', '11', '10', 10.67], ['HG', '11', '15', 13.67]]</Note>
+            </Etudiant>
+        
+            <Etudiant>
+                <Code>AAD22</Code>
+                <Numero>HDCB2G7</Numero>
+                <Nom>Ndaw</Nom>
+                <Prenom>Ousmane</Prenom>
+                <Date_de_naissance>14/08/00</Date_de_naissance>
+                <Classe>4emB</Classe>
+                <Note>[['PC', '11', '19', 16.33], ['   Math', '12', '14.5', '11', '03', 6.17], ['Francais', '14', '11', '13', 12.83], ['Anglais', '13.8', '05', 7.93], ['SVT', '12', '19', '16', '11', '19', 17.5], ['HG', '11', '10', 10.33]]</Note>
+            </Etudiant>
+        
+            <Etudiant>
+                <Code>AAD22</Code>
+                <Numero>GC4BDQ7</Numero>
+                <Nom>Sarr</Nom>
+                <Prenom>Oumi</Prenom>
+                <Date_de_naissance>17/06/03</Date_de_naissance>
+                <Classe>3emA</Classe>
+                <Note>[['Math', '10', '14.5', '11', '15', '17', 15.54], ['PC', '11', '9', 9.67], ['Francais', '16', '11', '13', 13.17], ['SVT', '12', '9', '14', '11', '12', 11.83], ['HG', '15', '11', 12.33], ['Anglais', '13.5', '15', 14.5]]</Note>
+            </Etudiant>
+        
+            <Etudiant>
+                <Code>AAD22</Code>
+                <Numero>BK63HBS</Numero>
+                <Nom>Gueye</Nom>
+                <Prenom>Astou</Prenom>
+                <Date_de_naissance>28/02/12</Date_de_naissance>
+                <Classe>3emA</Classe>
+                <Note>[['SVT', '15', '11', '11', '12', 12.11], ['HG', '6', '16', 12.67], ['Math', '10', '14.9', '11', '17', 15.32], ['Francais', '8', '13', '13', 12.17], ['Anglais', '18.5', '15', 16.17], ['PC', '7', '11', '9', 9.0]]</Note>
+            </Etudiant>
+        
+            <Etudiant>
+                <Code>ABD009</Code>
+                <Numero>SDFTY34</Numero>
+                <Nom>Senir</Nom>
+                <Prenom>Mbol</Prenom>
+                <Date_de_naissance>24/02/15</Date_de_naissance>
+                <Classe>4emB</Classe>
+                <Note>[['Math', '1', '5', '8', 6.33], ['Francais', '10', '9', '18', '10', 10.78], ['Anglais', '10.9', '9', '15', 13.32], ['PC', '17', '11', 13.0], ['SVT', '10', '20', '16', '10', '9', 10.67], ['HG', '6', '10', 8.67]]</Note>
+            </Etudiant>
+        
+            <Etudiant>
+                <Code>ABD009</Code>
+                <Numero>ZRDFD4S</Numero>
+                <Nom>Ndiareme</Nom>
+                <Prenom>Sylla</Prenom>
+                <Date_de_naissance>03/09/05</Date_de_naissance>
+                <Classe>3emA</Classe>
+                <Note>[['Math', '1', '4', '15', 10.83], ['Francais', '0', '19', '8', '10', 9.67], ['Anglais', '2.19', '1', '5', 3.87], ['PC', '10', '11', 10.67], ['SVT', '10', '20', '16', '10', '9', 10.67], ['HG', '9', '1', 3.67]]</Note>
+            </Etudiant>
+        
+            <Etudiant>
+                <Code>ABD009</Code>
+                <Numero>DFGE67T</Numero>
+                <Nom>Mbor</Nom>
+                <Prenom>Tounkho</Prenom>
+                <Date_de_naissance>17/10/01</Date_de_naissance>
+                <Classe>5emB</Classe>
+                <Note>[['Math', '10', '4', '5', 5.67], ['Francais', '12', '19', '18', '10', 12.11], ['Anglais', '10.9', '9', '4', 5.98], ['PC', '10', '11', 10.67], ['SVT', '10', '10', '8', '10', '9', 9.17], ['HG', '9', '17', 14.33]]</Note>
+            </Etudiant>
+        
+            <Etudiant>
+                <Code>ABD009</Code>
+                <Numero>56GFSE6</Numero>
+                <Nom>Awa</Nom>
+                <Prenom>Samaké</Prenom>
+                <Date_de_naissance>30/09/05</Date_de_naissance>
+                <Classe>5emB</Classe>
+                <Note>[['Math', '1', '4', '7', 5.5], ['Francais', '1', '9', '18', '10', 9.78], ['Anglais', '10.9', '9', '9', 9.32], ['PC', '10', '11', 10.67], ['SVT', '10', '20', '16', '10', '9', 10.67], ['HG', '9', '10', 9.67]]</Note>
+            </Etudiant>
+        
+            <Etudiant>
+                <Code>AFD006</Code>
+                <Numero>2022HEC</Numero>
+                <Nom>SYLLA</Nom>
+                <Prenom>Gallas</Prenom>
+                <Date_de_naissance>02/03/00</Date_de_naissance>
+                <Classe>6emA</Classe>
+                <Note>[['Math', '09', '15', '19', 16.67], ['Français', '10', '12', '13', 12.33], ['Anglais', '18', '14', '19', 18.0], ['PC', '09', '10', '12', 11.17], ['SVT', '03', '11', '16', 13.0], ['HG', '12', '14', 13.33]]</Note>
+            </Etudiant>
+        
+            <Etudiant>
+                <Code>AFD006</Code>
+                <Numero>2017ERT</Numero>
+                <Nom>MANTANE</Nom>
+                <Prenom>Elisabeth</Prenom>
+                <Date_de_naissance>03/04/96</Date_de_naissance>
+                <Classe>4emA</Classe>
+                <Note>[['Math', '10', '11', '15', 13.5], ['Francais', '7', '12', '8', '13', 11.67], ['Anglais', '13.5', '9', '15', 13.75], ['PC', '11', '9', 9.67], ['SVT', '12', '9', '16', '11', '12', 12.0], ['HG', '10', '13', 12.0]]</Note>
+            </Etudiant>
+        
+            <Etudiant>
+                <Code>AFD006</Code>
+                <Numero>2014TGR</Numero>
+                <Nom>MENDY</Nom>
+                <Prenom>Marcelin</Prenom>
+                <Date_de_naissance>12/11/92</Date_de_naissance>
+                <Classe>6emA</Classe>
+                <Note>[['Math', '04', '03', '05', 4.5], ['Francais', '15', '16', '14', 14.5], ['Anglais', '15', '16', '17', 16.5], ['PC', '04', '03', '07', 5.83], ['SVT', '12', '09', '10', 10.17], ['HG', '16', '15', '17', 16.5]]</Note>
+            </Etudiant>
+        
+            <Etudiant>
+                <Code>AFD006</Code>
+                <Numero>2020DFH</Numero>
+                <Nom>NDIAYE</Nom>
+                <Prenom>Fatah</Prenom>
+                <Date_de_naissance>23/08/00</Date_de_naissance>
+                <Classe>4emB</Classe>
+                <Note>[['PC', '11', '9', 9.67], [' Math', '12', '14.5', '11', '13', 12.83], ['Francais', '14', '12', '13', 13.0], ['Anglais', '12.8', '15', 14.27], ['SVT', '10', '9', '16', '13', '12', 12.0], ['HG', '10', '16', 14.0]]</Note>
+            </Etudiant>
+        
+            <Etudiant>
+                <Code>AFD006</Code>
+                <Numero>2018JKH</Numero>
+                <Nom>NDIAYE</Nom>
+                <Prenom>Zeyna</Prenom>
+                <Date_de_naissance>23/06/98</Date_de_naissance>
+                <Classe>4emA</Classe>
+                <Note>[['Math', '13', '11', '13', 12.67], ['PC', '13', '19', '14', 14.67], ['Francais', '12', '14', '14', 13.67], ['SVT', '15', '19', '15', 15.67], ['HG', '10', '18', '13', 13.33], ['Anglais', '11', '12', '11', 11.17]]</Note>
+            </Etudiant>
+        
+            <Etudiant>
+                <Code>AKH014</Code>
+                <Numero>2020UT6</Numero>
+                <Nom>SIHARAJ</Nom>
+                <Prenom>SORPHAKA</Prenom>
+                <Date_de_naissance>11/09/02</Date_de_naissance>
+                <Classe>6emB</Classe>
+                <Note>[['Math', '14', '12', '15', 14.33], ['Francais', '18', '06', '14', 13.33], ['Anglais', '15', '12', '12', 12.5], ['PC', '18', '13', '07', 9.83], ['SVT', '11', '19', '12', 13.0], ['HG', '13', '15', '12', 12.67]]</Note>
+            </Etudiant>
+        
+            <Etudiant>
+                <Code>AKH014</Code>
+                <Numero>2021IJ3</Numero>
+                <Nom>LEFRANC</Nom>
+                <Prenom>LYDIE</Prenom>
+                <Date_de_naissance>04/06/01</Date_de_naissance>
+                <Classe>4emB</Classe>
+                <Note>[['Math', '04', '03', '05', 4.5], ['Francais', '15', '16', '14', 14.5], ['Anglais', '15', '16', '17', 16.5], ['PC', '04', '03', '07', 5.83], ['SVT', '12', '09', '10', 10.17], ['HG', '16', '15', '17', 16.5]]</Note>
+            </Etudiant>
+        
+            <Etudiant>
+                <Code>AKH014</Code>
+                <Numero>1992I0E</Numero>
+                <Nom>MAHMOUD</Nom>
+                <Prenom>ABDERRAHMAN</Prenom>
+                <Date_de_naissance>12/12/99</Date_de_naissance>
+                <Classe>4emA</Classe>
+                <Note>[['Math', '10', '11', '15', 13.5], ['Francais', '7', '12', '8', '13', 11.67], ['Anglais', '13.5', '9', '15', 13.75], ['PC', '11', '9', 9.67], ['SVT', '12', '9', '16', '11', '12', 12.0], ['HG', '10', '13', 12.0]]</Note>
+            </Etudiant>
+        
+            <Etudiant>
+                <Code>AKH014</Code>
+                <Numero>20L6TRA</Numero>
+                <Nom>MIMOUNI</Nom>
+                <Prenom>MIMOUNI</Prenom>
+                <Date_de_naissance>12/07/97</Date_de_naissance>
+                <Classe>6emA</Classe>
+                <Note>[['Math', '04', '03', '05', 4.5], ['Francais', '15', '16', '14', 14.5], ['Anglais', '15', '16', '17', 16.5], ['PC', '04', '03', '07', 5.83], ['SVT', '12', '09', '10', 10.17], ['HG', '16', '15', '17', 16.5]]</Note>
+            </Etudiant>
+        
+            <Etudiant>
+                <Code>AKH014</Code>
+                <Numero>9OIM76T</Numero>
+                <Nom>GALEA</Nom>
+                <Prenom>EMILIE</Prenom>
+                <Date_de_naissance>04/07/94</Date_de_naissance>
+                <Classe>5emA</Classe>
+                <Note>[['MATH', '18', '14', '20', 18.67], ['PC', '12', '13', '15', 14.17], ['SVT', '10', '13', '16', 14.5], ['FRANÇAIS', '10', '11', '14', 12.83], ['ANGLAIS', '11', '11', '20', 17.0], ['HG', '10', '12', '14', 13.0]]</Note>
+            </Etudiant>
+        
+            <Etudiant>
+                <Code>AKH014</Code>
+                <Numero>30NB45E</Numero>
+                <Nom>HAMAMA</Nom>
+                <Prenom>MAVEL</Prenom>
+                <Date_de_naissance>07/01/98</Date_de_naissance>
+                <Classe>3emB</Classe>
+                <Note>[['MATH', '11', '14', '20', 17.5], ['PC', '12', '13', '15', 14.17], ['SVT', '10', '13', '16', 14.5], ['FRANÇAIS', '10', '11', '14', 12.83], ['ANGLAIS', '11', '11', '20', 17.0], ['HG', '10', '12', '14', 13.0]]</Note>
+            </Etudiant>
+        
+            <Etudiant>
+                <Code>AMB001</Code>
+                <Numero>12889HI</Numero>
+                <Nom>CAMARA</Nom>
+                <Prenom>KAMOU</Prenom>
+                <Date_de_naissance>03/01/00</Date_de_naissance>
+                <Classe>6emA</Classe>
+                <Note>[['MATH', '12', '14', '20', 17.67], ['PC', '12', '13', '15', 14.17], ['SVT', '10', '13', '16', 14.5], ['FRANÇAIS', '10', '11', '14', 12.83], ['ANGLAIS', '11', '11', '20', 17.0], ['HG', '10', '12', '14', 13.0]]</Note>
+            </Etudiant>
+        
+            <Etudiant>
+                <Code>AMB001</Code>
+                <Numero>19937HH</Numero>
+                <Nom>JANN</Nom>
+                <Prenom>KABOU</Prenom>
+                <Date_de_naissance>08/01/00</Date_de_naissance>
+                <Classe>6emA</Classe>
+                <Note>[['MATH', '17', '14', '20', 18.5], ['PC', '12', '13', '15', 14.17], ['SVT', '10', '13', '16', 14.5], ['FRANÇAIS', '10', '11', '14', 12.83], ['ANGLAIS', '11', '11', '20', 17.0], ['HG', '10', '12', '14', 13.0]]</Note>
+            </Etudiant>
+        
+            <Etudiant>
+                <Code>AMD013</Code>
+                <Numero>Z7812Z5</Numero>
+                <Nom>DIOUM</Nom>
+                <Prenom>ALIOUNE</Prenom>
+                <Date_de_naissance>12,12,2011</Date_de_naissance>
+                <Classe>3emB</Classe>
+                <Note>[['PC', '11', '9', 9.67], [' Math', '12', '14.5', '11', '13', 12.83], ['Francais', '4', '11', '13', 11.17], ['Anglais', '13.8', '15', 14.6], ['SVT', '12', '9', '16', '11', '12', 12.0], ['HG', '11', '13', 12.33]]</Note>
+            </Etudiant>
+        
+            <Etudiant>
+                <Code>AMD013</Code>
+                <Numero>Z7852Z3</Numero>
+                <Nom>FALL</Nom>
+                <Prenom>MOUSTAPHA</Prenom>
+                <Date_de_naissance>09/09/12</Date_de_naissance>
+                <Classe>6emB</Classe>
+                <Note>[['Math', '10', '11', '15', 13.5], ['Francais', '7', '9', '8', '13', 11.33], ['Anglais', '10.5', '9', '15', 13.25], ['PC', '10', '11', 10.67], ['SVT', '12', '11', '16', '8', '12', 11.92], ['HG', '10', '10', 10.0]]</Note>
+            </Etudiant>
+        
+            <Etudiant>
+                <Code>AMD013</Code>
+                <Numero>Z7312Z3</Numero>
+                <Nom>TINE</Nom>
+                <Prenom>SEYDOU</Prenom>
+                <Date_de_naissance>03/09/00</Date_de_naissance>
+                <Classe>5emA</Classe>
+                <Note>[['Math', '10', '11', '15', 13.5], ['Francais', '7', '12', '8', '13', 11.67], ['Anglais', '13.5', '9', '15', 13.75], ['PC', '11', '9', 9.67], ['SVT', '12', '9', '16', '11', '12', 12.0], ['HG', '10', '13', 12.0]]</Note>
+            </Etudiant>
+        
+            <Etudiant>
+                <Code>AMD013</Code>
+                <Numero>Z8812Z3</Numero>
+                <Nom>TOURE</Nom>
+                <Prenom>OUMAR</Prenom>
+                <Date_de_naissance>29/11/01</Date_de_naissance>
+                <Classe>5emB</Classe>
+                <Note>[['Math', '9', '10.5', '10', '13', '12', 11.54], ['PC', '12', '19', 16.67], ['Francais', '10', '11', '13', 12.17], ['SVT', '15', '9', '16', '11', '12', 12.25], ['HG', '13', '13', 13.0], ['Anglais', '11.12', '15', 13.71]]</Note>
+            </Etudiant>
+        
+            <Etudiant>
+                <Code>AMG015</Code>
+                <Numero>SONA001</Numero>
+                <Nom>FAYE</Nom>
+                <Prenom>FATOU</Prenom>
+                <Date_de_naissance>12/04/93</Date_de_naissance>
+                <Classe>6emA</Classe>
+                <Note>[['Math', '04', '03', '05', 4.5], ['Francais', '15', '16', '14', 14.5], ['Anglais', '15', '16', '17', 16.5], ['PC', '04', '03', '07', 5.83], ['SVT', '12', '09', '10', 10.17], ['HG', '16', '15', '17', 16.5]]</Note>
+            </Etudiant>
+        
+            <Etudiant>
+                <Code>AMG015</Code>
+                <Numero>SONA002</Numero>
+                <Nom>GAYE</Nom>
+                <Prenom>THIERNO</Prenom>
+                <Date_de_naissance>14/02/92</Date_de_naissance>
+                <Classe>6emB</Classe>
+                <Note>[['Math', '04', '03', '05', 4.5], ['Francais', '15', '16', '14', 14.5], ['Anglais', '15', '16', '17', 16.5], ['PC', '04', '03', '07', 5.83], ['SVT', '12', '09', '10', 10.17], ['HG', '16', '15', '17', 16.5]]</Note>
+            </Etudiant>
+        
+            <Etudiant>
+                <Code>AMG015</Code>
+                <Numero>SONA003</Numero>
+                <Nom>DIOP</Nom>
+                <Prenom>YOUSSOU</Prenom>
+                <Date_de_naissance>12/06/94</Date_de_naissance>
+                <Classe>5emA</Classe>
+                <Note>[['Math', '04', '03', '05', 4.5], ['Francais', '15', '16', '14', 14.5], ['Anglais', '15', '16', '17', 16.5], ['PC', '04', '03', '07', 5.83], ['SVT', '12', '09', '10', 10.17], ['HG', '16', '15', '17', 16.5]]</Note>
+            </Etudiant>
+        
+            <Etudiant>
+                <Code>AMG015</Code>
+                <Numero>SONA004</Numero>
+                <Nom>WAGNE</Nom>
+                <Prenom>PETIT</Prenom>
+                <Date_de_naissance>12/07/95</Date_de_naissance>
+                <Classe>5emB</Classe>
+                <Note>[['Math', '04', '03', '05', 4.5], ['Francais', '15', '16', '14', 14.5], ['Anglais', '15', '16', '17', 16.5], ['PC', '04', '03', '07', 5.83], ['SVT', '12', '09', '10', 10.17], ['HG', '16', '15', '17', 16.5]]</Note>
+            </Etudiant>
+        
+            <Etudiant>
+                <Code>AMG015</Code>
+                <Numero>SONA005</Numero>
+                <Nom>CISSE</Nom>
+                <Prenom>GALAYE</Prenom>
+                <Date_de_naissance>04/03/95</Date_de_naissance>
+                <Classe>4emA</Classe>
+                <Note>[['Math', '04', '03', '05', 4.5], ['Francais', '15', '16', '14', 14.5], ['Anglais', '15', '16', '17', 16.5], ['PC', '04', '03', '07', 5.83], ['SVT', '12', '09', '10', 10.17], ['HG', '16', '15', '17', 16.5]]</Note>
+            </Etudiant>
+        
+            <Etudiant>
+                <Code>AMG015</Code>
+                <Numero>SONA006</Numero>
+                <Nom>GOMIS</Nom>
+                <Prenom>PATA</Prenom>
+                <Date_de_naissance>01/06/97</Date_de_naissance>
+                <Classe>4emB</Classe>
+                <Note>[['Math', '04', '03', '05', 4.5], ['Francais', '15', '16', '14', 14.5], ['Anglais', '15', '16', '17', 16.5], ['PC', '04', '03', '07', 5.83], ['SVT', '12', '09', '10', 10.17], ['HG', '16', '15', '17', 16.5]]</Note>
+            </Etudiant>
+        
+            <Etudiant>
+                <Code>AMG015</Code>
+                <Numero>SONA007</Numero>
+                <Nom>SANE </Nom>
+                <Prenom>BALLA</Prenom>
+                <Date_de_naissance>09/09/99</Date_de_naissance>
+                <Classe>3emA</Classe>
+                <Note>[['Math', '04', '03', '05', 4.5], ['Francais', '15', '16', '14', 14.5], ['Anglais', '15', '16', '17', 16.5], ['PC', '04', '03', '07', 5.83], ['SVT', '12', '09', '10', 10.17], ['HG', '16', '15', '17', 16.5]]</Note>
+            </Etudiant>
+        
+            <Etudiant>
+                <Code>AMG015</Code>
+                <Numero>SONA008</Numero>
+                <Nom>SAGNA</Nom>
+                <Prenom>SADIO</Prenom>
+                <Date_de_naissance>06/06/99</Date_de_naissance>
+                <Classe>3emB</Classe>
+                <Note>[['Math', '04', '03', '05', 4.5], ['Francais', '15', '16', '14', 14.5], ['Anglais', '15', '16', '17', 16.5], ['PC', '04', '03', '07', 5.83], ['SVT', '12', '09', '10', 10.17], ['HG', '16', '15', '17', 16.5]]</Note>
+            </Etudiant>
+        
+            <Etudiant>
+                <Code>AMG015</Code>
+                <Numero>SONA009</Numero>
+                <Nom>NIANG</Nom>
+                <Prenom>MAREME</Prenom>
+                <Date_de_naissance>12/12/96</Date_de_naissance>
+                <Classe>6emA</Classe>
+                <Note>[['Math', '04', '03', '05', 4.5], ['Francais', '15', '16', '14', 14.5], ['Anglais', '15', '16', '17', 16.5], ['PC', '04', '03', '07', 5.83], ['SVT', '12', '09', '10', 10.17], ['HG', '16', '15', '17', 16.5]]</Note>
+            </Etudiant>
+        
+            <Etudiant>
+                <Code>ASK017</Code>
+                <Numero>OKYLDC8</Numero>
+                <Nom>KANE</Nom>
+                <Prenom>Ousmane</Prenom>
+                <Date_de_naissance>07/12/07</Date_de_naissance>
+                <Classe>4emA</Classe>
+                <Note>[['Math', '12', '10', '11', 11.0], ['SVT', '09', '10', '08', 8.5], ['PC', '06', '10', '10', 9.33], ['Français', '15', '14', '15', 14.83], ['Anglais', '17', '16', '19', 18.17]]</Note>
+            </Etudiant>
+        
+            <Etudiant>
+                <Code>ASK017</Code>
+                <Numero>DKBLMT7</Numero>
+                <Nom>KONATE</Nom>
+                <Prenom>Djiby</Prenom>
+                <Date_de_naissance>09/06/10</Date_de_naissance>
+                <Classe>6emB</Classe>
+                <Note>[['Math', '17', '15', 15.67], ['HG', '15', '10', '14', 13.5], ['SVT', '14', '15', '12', 12.83], ['Français', '14', '15', 14.67], ['Anglais', '19', '17', 17.67]]</Note>
+            </Etudiant>
+        
+            <Etudiant>
+                <Code>ASK017</Code>
+                <Numero>CMGBDK9</Numero>
+                <Nom>MENDY</Nom>
+                <Prenom>Christelle</Prenom>
+                <Date_de_naissance>11/10/06</Date_de_naissance>
+                <Classe>3emB</Classe>
+                <Note>[['Math', '14', '18', '16', 16.0], ['PC', '17', '16', 16.33], ['SVT', '15', '19', 17.67], ['Français', '11', '09', '10', 10.0], ['HG', '08', '05', '12', 10.17], ['Anglais', '13', '15', 14.33]]</Note>
+            </Etudiant>
+        
+            <Etudiant>
+                <Code>ASK017</Code>
+                <Numero>YOSADK1</Numero>
+                <Nom>OUEDRAOGO</Nom>
+                <Prenom>Yankoba</Prenom>
+                <Date_de_naissance>15/02/09</Date_de_naissance>
+                <Classe>5emA</Classe>
+                <Note>[['Math', '10', '15', 13.33], ['SVT', '12', '11', '14', 13.17], ['HG', '13', '10', '15', 13.83], ['Anglais', '12', '17', 15.33], ['Français', '18', '14', '16', 16.0]]</Note>
+            </Etudiant>
+        
+            <Etudiant>
+                <Code>ASK017</Code>
+                <Numero>SFSADK2</Numero>
+                <Nom>FALL</Nom>
+                <Prenom>Salimata</Prenom>
+                <Date_de_naissance>02/08/10</Date_de_naissance>
+                <Classe>6emA</Classe>
+                <Note>[['Math', '13', '09', 10.33], ['SVT', '12', '16', '10', 11.33], ['HG', '17', '14', '15', 15.17], ['Anglais', '18', '17', 17.33], ['Français', '18', '15', '17', 16.83]]</Note>
+            </Etudiant>
+        
+            <Etudiant>
+                <Code>ASK017</Code>
+                <Numero>MDMTDK9</Numero>
+                <Nom>DIOP</Nom>
+                <Prenom>Mamy</Prenom>
+                <Date_de_naissance>25/09/05</Date_de_naissance>
+                <Classe>3emA</Classe>
+                <Note>[['Math', '09', '11', '13', '11', 11.0], ['PC', '13', '10', 11.0], ['SVT', '10', '15', '14', '12', 12.33], ['Anglais', '12', '16', 14.67], ['Français', '11', '13', '11', 11.33]]</Note>
+            </Etudiant>
+        
+            <Etudiant>
+                <Code>ASK017</Code>
+                <Numero>MTBFCA2</Numero>
+                <Nom>TAPSOBA</Nom>
+                <Prenom>Mounkoudy</Prenom>
+                <Date_de_naissance>08/12/08</Date_de_naissance>
+                <Classe>4emB</Classe>
+                <Note>[['Anglais', '12', '08', '10', 10.0], ['Math', '15', '18', '20', 18.83], ['PC', '10', '17', '16', 15.17], ['SVT', '19', '15', '17', 17.0], ['HG', '11', '14', '10', 10.83], ['Français', '06', '09', '11', 9.83]]</Note>
+            </Etudiant>
+        
+            <Etudiant>
+                <Code>ASK017</Code>
+                <Numero>DDPADK7</Numero>
+                <Nom>DIA</Nom>
+                <Prenom>Dieynaba</Prenom>
+                <Date_de_naissance>01/05/08</Date_de_naissance>
+                <Classe>4emB</Classe>
+                <Note>[['Math', '10', '10', '09', 9.33], ['PC', '12', '10', '12', 11.67], ['SVT', '05', '10', '13', 11.17], ['Français', '12', '16', '14', 14.0], ['Anglais', '14', '16', '19', 17.67]]</Note>
+            </Etudiant>
+        
+            <Etudiant>
+                <Code>ASK017</Code>
+                <Numero>ADBMML5</Numero>
+                <Nom>DIOGOSOUMA</Nom>
+                <Prenom>Aliou</Prenom>
+                <Date_de_naissance>03/10/09</Date_de_naissance>
+                <Classe>5emB</Classe>
+                <Note>[['Français', '15', '12', 13.0], ['Anglais', '16', '10', '16', 15.0], ['HG', '12', '18', 16.0], ['SVT', '17', '15', 15.67], ['Math', '15', '13', '18', 16.67]]</Note>
+            </Etudiant>
+        
+            <Etudiant>
+                <Code>ASK017</Code>
+                <Numero>ABHLMY1</Numero>
+                <Nom>BAOBEY</Nom>
+                <Prenom>Angelline</Prenom>
+                <Date_de_naissance>18/03/06</Date_de_naissance>
+                <Classe>3emA</Classe>
+                <Note>[['SVT', '16', '10', '17', 15.67], ['Math', '18', '15', '19', 18.17], ['PC', '17', '12', '17', 16.17], ['Français', '15', '13', '16', 15.33], ['HG', '12', '10', '15', 13.67], ['Anglais', '14', '18', '15', 15.33]]</Note>
+            </Etudiant>
+        
+            <Etudiant>
+                <Code>BAD008</Code>
+                <Numero>AF32IBC</Numero>
+                <Nom>FALL</Nom>
+                <Prenom>OUSSEYOU</Prenom>
+                <Date_de_naissance>03/07/00</Date_de_naissance>
+                <Classe>3emB</Classe>
+                <Note>[['Math', '13', '15', '16', 15.33], ['Francais', '10', '14', '13', 12.67], ['Anglais', '12', '9', '15', '11', 11.33], ['PC', '13', '10', 11.0], ['SVT', '14', '9', '12', '13', 12.56], ['HG', '13', '15', 14.33]]</Note>
+            </Etudiant>
+        
+            <Etudiant>
+                <Code>BAD008</Code>
+                <Numero>M60GRTL</Numero>
+                <Nom>TINE</Nom>
+                <Prenom>SOKHNA</Prenom>
+                <Date_de_naissance>25/02/05</Date_de_naissance>
+                <Classe>4emA</Classe>
+                <Note>[['Math', '8', '13', '10', 10.17], ['Francais', '10', '10', '13', 12.0], ['Anglais', '10', '11', '9', '7', 8.0], ['PC', '10', '8', 8.67], ['SVT', '11', '9', '10', '13', 12.0], ['HG', '12', '10', 10.67]]</Note>
+            </Etudiant>
+        
+            <Etudiant>
+                <Code>BAD008</Code>
+                <Numero>QNXKW09</Numero>
+                <Nom>SINE</Nom>
+                <Prenom>MARIEME</Prenom>
+                <Date_de_naissance>29/08/08</Date_de_naissance>
+                <Classe>5emB</Classe>
+                <Note>[['Math', '8', '12', '9', 9.33], ['Francais', '15', '10', '9', 10.17], ['Anglais', '12', '9', '12', '7', 8.33], ['PC', '11', '12', 11.67], ['SVT', '8', '11', '10', '9', 9.22], ['HG', '10', '11', 10.67]]</Note>
+            </Etudiant>
+        
+            <Etudiant>
+                <Code>BAD008</Code>
+                <Numero>G2NXW1L</Numero>
+                <Nom>DIOUF</Nom>
+                <Prenom>MOUSTAPHA</Prenom>
+                <Date_de_naissance>05/07/01</Date_de_naissance>
+                <Classe>4emB</Classe>
+                <Note>[['Math', '10', '14', '12', 12.0], ['Francais', '10', '12', '12', 11.67], ['Anglais', '9', '10', '11', 10.5], ['PC', '11', '12', 11.67], ['SVT', '13', '12', '15', 14.17], ['HG', '15', '10', 11.67]]</Note>
+            </Etudiant>
+        
+            <Etudiant>
+                <Code>BAD008</Code>
+                <Numero>UPNCG78</Numero>
+                <Nom>KA</Nom>
+                <Prenom>ALIOU</Prenom>
+                <Date_de_naissance>10/05/09</Date_de_naissance>
+                <Classe>3emB</Classe>
+                <Note>[['Math', '9', '10.5', '10', '13', '12', 11.54], ['PC', '12', '19', 16.67], ['Francais', '10', '11', '13', 12.17], ['SVT', '15', '9', '16', '11', '12', 12.25], ['HG', '13', '13', 13.0], ['Anglais', '11.12', '15', 13.71]]</Note>
+            </Etudiant>
+        
+            <Etudiant>
+                <Code>BAD008</Code>
+                <Numero>WYI96BT</Numero>
+                <Nom>DIALLO</Nom>
+                <Prenom>SEYNABOU</Prenom>
+                <Date_de_naissance>16/02/03</Date_de_naissance>
+                <Classe>5emB</Classe>
+                <Note>[['Math', '8', '11', '9', 9.17], ['Francais', '12', '14', '13', 13.0], ['Anglais', '12', '9', '11', 10.83], ['PC', '16', '12', 13.33], ['SVT', '14', '9', '11', '14', 13.11], ['HG', '12', '14', 13.33]]</Note>
+            </Etudiant>
+        
+            <Etudiant>
+                <Code>BAD008</Code>
+                <Numero>FRTX54U</Numero>
+                <Nom>NDIAYE</Nom>
+                <Prenom>FATOU</Prenom>
+                <Date_de_naissance>22/07/05</Date_de_naissance>
+                <Classe>4emA</Classe>
+                <Note>[['Math', '12', '7', '10', 9.83], ['Francais', '13', '14', '9', 10.5], ['Anglais', '9', '11', '12', 11.33], ['PC', '15', '12', 13.0], ['SVT', '11', '10', '12', '13', 12.33], ['HG', '10', '14', 12.67]]</Note>
+            </Etudiant>
+        
+            <Etudiant>
+                <Code>BAD008</Code>
+                <Numero>LJQC67L</Numero>
+                <Nom>WADE</Nom>
+                <Prenom>ASTOU</Prenom>
+                <Date_de_naissance>12/12/07</Date_de_naissance>
+                <Classe>3emB</Classe>
+                <Note>[['Math', '13', '15', '16', 15.33], ['Francais', '10', '14', '13', 12.67], ['Anglais', '12', '9', '19', '11', 11.78], ['PC', '13', '10', 11.0], ['SVT', '14', '9', '12', '13', 12.56], ['HG', '11', '12', 11.67]]</Note>
+            </Etudiant>
+        
+            <Etudiant>
+                <Code>BAD008</Code>
+                <Numero>KFPB32H</Numero>
+                <Nom>SY</Nom>
+                <Prenom>ADJA</Prenom>
+                <Date_de_naissance>02/08/02</Date_de_naissance>
+                <Classe>6emA</Classe>
+                <Note>[['Math', '10', '11', '15', 13.5], ['Francais', '7', '9', '8', '13', 11.33], ['Anglais', '10.5', '9', '15', 13.25], ['PC', '10', '11', 10.67], ['SVT', '12', '11', '16', '8', '12', 11.92], ['HG', '10', '10', 10.0]]</Note>
+            </Etudiant>
+        
+            <Etudiant>
+                <Code>BAF013</Code>
+                <Numero>GH43RTU</Numero>
+                <Nom>Ndao</Nom>
+                <Prenom>Aram</Prenom>
+                <Date_de_naissance>16/02/00</Date_de_naissance>
+                <Classe>3emA</Classe>
+                <Note>[['Math', '10', '11', '15', 13.5], ['Francais', '7', '12', '8', '13', 11.67], ['Anglais', '13.5', '9', '15', 13.75], ['PC', '11', '9', 9.67], ['SVT', '12', '9', '16', '11', '12', 12.0], ['HG', '10', '13', 12.0]]</Note>
+            </Etudiant>
+        
+            <Etudiant>
+                <Code>BAF013</Code>
+                <Numero>PLM56DS</Numero>
+                <Nom>Gomis</Nom>
+                <Prenom>Pipo</Prenom>
+                <Date_de_naissance>16/03/98</Date_de_naissance>
+                <Classe>4emB</Classe>
+                <Note>[['Math', '8', '7', '10', 9.17], ['Francais', '15', '12', '9', '14', 13.33], ['Anglais', '13.15', '19', '15', 15.36], ['PC', '11', '9', 9.67], ['SVT', '2', '9', '16', '11', '12', 11.17], ['HG', '10', '18', 15.33]]</Note>
+            </Etudiant>
+        
+            <Etudiant>
+                <Code>BAF013</Code>
+                <Numero>GF34KHS</Numero>
+                <Nom>Diouf</Nom>
+                <Prenom>Ousseynou</Prenom>
+                <Date_de_naissance>03/12/92</Date_de_naissance>
+                <Classe>5emA</Classe>
+                <Note>[['Math', '18', '17', '10', 12.5], ['Francais', '5', '13', '9', '14', 12.33], ['Anglais', '12.5', '10', '14', 13.08], ['PC', '17', '9', 11.67], ['SVT', '12', '19', '15', '11', '12', 12.75], ['HG', '16', '18', 17.33]]</Note>
+            </Etudiant>
+        
+            <Etudiant>
+                <Code>BAF013</Code>
+                <Numero>JHGF7F5</Numero>
+                <Nom>Diop</Nom>
+                <Prenom>Elimane</Prenom>
+                <Date_de_naissance>12/01/03</Date_de_naissance>
+                <Classe>6emA</Classe>
+                <Note>[['Math', '9', '17', '10', 11.0], ['Francais', '12', '13', '8', '18', 15.67], ['Anglais', '3.5', '10', '15', 12.25], ['PC', '17', '19', 18.33], ['SVT', '12', '19', '16', '13', '12', 13.0], ['HG', '14', '18', 16.67]]</Note>
+            </Etudiant>
+        
+            <Etudiant>
+                <Code>BAF013</Code>
+                <Numero>RED76BH</Numero>
+                <Nom>Cissé</Nom>
+                <Prenom>Babacar</Prenom>
+                <Date_de_naissance>03/06/05</Date_de_naissance>
+                <Classe>3emB</Classe>
+                <Note>[['Math', '8', '7', '10', 9.17], ['Francais', '15', '12', '9', '14', 13.33], ['Anglais', '13.15', '19', '15', 15.36], ['PC', '11', '9', 9.67], ['SVT', '2', '9', '16', '11', '12', 11.17], ['HG', '10', '18', 15.33]]</Note>
+            </Etudiant>
+        
+            <Etudiant>
+                <Code>BAF013</Code>
+                <Numero>GF69LBC</Numero>
+                <Nom>Ba</Nom>
+                <Prenom>Abdoulaye</Prenom>
+                <Date_de_naissance>09/02/92</Date_de_naissance>
+                <Classe>3emA</Classe>
+                <Note>[['Math', '18', '17', '15', 15.83], ['Francais', '10', '1', '9', '12', 10.22], ['Anglais', '10.11', '18', '15', 14.69], ['PC', '11', '9', 9.67], ['SVT', '12', '9', '13', '11', '12', 11.75], ['HG', '12', '19', 16.67]]</Note>
+            </Etudiant>
+        
+            <Etudiant>
+                <Code>BAF013</Code>
+                <Numero>ML09RDS</Numero>
+                <Nom>Diallo</Nom>
+                <Prenom>Alioune</Prenom>
+                <Date_de_naissance>08/07/93</Date_de_naissance>
+                <Classe>4emB</Classe>
+                <Note>[['Math', '9', '7', '11', 10.0], ['Francais', '11', '13', '19', '4', 7.44], ['Anglais', '12.11', '10', '15', 13.69], ['PC', '10', '12', 11.33], ['SVT', '13', '7', '15', '16', '2', 5.58], ['HG', '11', '16', 14.33]]</Note>
+            </Etudiant>
+        
+            <Etudiant>
+                <Code>BAF013</Code>
+                <Numero>NBV76RD</Numero>
+                <Nom>Gueye</Nom>
+                <Prenom>Abdalah</Prenom>
+                <Date_de_naissance>01/01/92</Date_de_naissance>
+                <Classe>4emA</Classe>
+                <Note>[['Math', '12', '17', '0', 4.83], ['Francais', '12', '17', '12', '15', 14.56], ['Anglais', '13.15', '19', '15', 15.36], ['PC', '11', '19', 16.33], ['SVT', '12', '8', '12', '11', '12', 11.58], ['HG', '10', '18', 15.33]]</Note>
+            </Etudiant>
+        
+            <Etudiant>
+                <Code>BAF013</Code>
+                <Numero>NB675DH</Numero>
+                <Nom>Dia</Nom>
+                <Prenom>Hawa</Prenom>
+                <Date_de_naissance>07/07/97</Date_de_naissance>
+                <Classe>5emB</Classe>
+                <Note>[['Math', '15', '12', '10', 11.17], ['Francais', '13', '16', '19', '19', 18.0], ['Anglais', '12.13', '18', '15', 15.02], ['PC', '12', '19', 16.67], ['SVT', '2', '9', '17', '11', '2', 4.58], ['HG', '1', '15', 10.33]]</Note>
+            </Etudiant>
+        
+            <Etudiant>
+                <Code>BAF013</Code>
+                <Numero>MLHF65D</Numero>
+                <Nom>Guissé</Nom>
+                <Prenom>Penda</Prenom>
+                <Date_de_naissance>04/04/94</Date_de_naissance>
+                <Classe>3emA</Classe>
+                <Note>[['Math', '8', '7', '10', 9.17], ['Francais', '15', '12', '9', '14', 13.33], ['Anglais', '13.15', '19', '15', 15.36], ['PC', '11', '9', 9.67], ['SVT', '2', '9', '16', '11', '12', 11.17], ['HG', '10', '18', 15.33]]</Note>
+            </Etudiant>
+        
+            <Etudiant>
+                <Code>BMP019</Code>
+                <Numero>IHFK34G</Numero>
+                <Nom>DIOUM</Nom>
+                <Prenom>Harry</Prenom>
+                <Date_de_naissance>14/01/95</Date_de_naissance>
+                <Classe>5emA</Classe>
+                <Note>[['SVT', '12', '19', '01', '04', 6.22], ['HG', '15', '11', 12.33], ['Math', '12', '14.5', '11', '13', 12.83], ['Francais', '18', '11', '10', 11.5], ['Anglais', '17.5', '15', 15.83], ['PC', '3', '15', '9', 9.0]]</Note>
+            </Etudiant>
+        
+            <Etudiant>
+                <Code>BMP019</Code>
+                <Numero>3FR5IJ9</Numero>
+                <Nom>DIALLO</Nom>
+                <Prenom>Hermione</Prenom>
+                <Date_de_naissance>12/08/06</Date_de_naissance>
+                <Classe>4emB</Classe>
+                <Note>[['SVT', '15', '11', '11', '12', 12.11], ['HG', '6', '14', '16', 14.0], ['Math', '10', '12.19', '11', '16', 14.35], ['Francais', '18', '11', '15', 14.83], ['Anglais', '8.15', '15', 12.72], ['PC', '7', '11', '09', '9', 9.0]]</Note>
+            </Etudiant>
+        
+            <Etudiant>
+                <Code>BMP019</Code>
+                <Numero>PM12NG7</Numero>
+                <Nom>DIOP</Nom>
+                <Prenom>Marième</Prenom>
+                <Date_de_naissance>19/08/97</Date_de_naissance>
+                <Classe>3emA</Classe>
+                <Note>[['PC', '15', '11', '9', 10.33], [' Math', '12', '14.5', '11', '13', 12.83], ['Francais', '4', '11', '13', 11.17], ['Anglais', '13.8', '15', 14.6], ['SVT', '12', '9', '16', '11', '12', 12.0], ['HG', '11', '13', 12.33]]</Note>
+            </Etudiant>
+        
+            <Etudiant>
+                <Code>BMP019</Code>
+                <Numero>89HY6F5</Numero>
+                <Nom>DIALLO</Nom>
+                <Prenom>Ronald</Prenom>
+                <Date_de_naissance>09/05/00</Date_de_naissance>
+                <Classe>6emA</Classe>
+                <Note>[['Math', '10', '14.5', '16', 14.75], ['PC', '11', '9', 9.67], ['Francais', '4', '11', '13', 11.17], ['SVT', '12', '9', '16', '11', '12', 12.0], ['HG', '10', '13', 12.0], ['Anglais', '13.5', '15', 14.5]]</Note>
+            </Etudiant>
+        
+            <Etudiant>
+                <Code>BMP019</Code>
+                <Numero>5D7BKJ2</Numero>
+                <Nom>FALL</Nom>
+                <Prenom>Magui</Prenom>
+                <Date_de_naissance>30/08/08</Date_de_naissance>
+                <Classe>3emB</Classe>
+                <Note>[['Math', '10', '11', '15', 13.5], ['Francais', '7', '12', '8', '13', 11.67], ['Anglais', '13.5', '9', '15', 13.75], ['PC', '11', '9', 9.67], ['SVT', '12', '9', '16', '11', '12', 12.0], ['HG', '10', '13', 12.0]]</Note>
+            </Etudiant>
+        
+            <Etudiant>
+                <Code>BMP019</Code>
+                <Numero>PK0I89K</Numero>
+                <Nom>CAMARA</Nom>
+                <Prenom>Rachid</Prenom>
+                <Date_de_naissance>15/02/01</Date_de_naissance>
+                <Classe>6emA</Classe>
+                <Note>[['PC', '11', '9', 9.67], ['   Math', '12', '14.5', '11', '13', 12.83], ['Francais', '14', '11', '13', 12.83], ['Anglais', '13.8', '5', 7.93], ['SVT', '12', '9', '16', '11', '12', 12.0], ['HG', '11', '13', 12.33]]</Note>
+            </Etudiant>
+        
+            <Etudiant>
+                <Code>BMP019</Code>
+                <Numero>9F6J9TT</Numero>
+                <Nom>POUYE</Nom>
+                <Prenom>Ousseynou</Prenom>
+                <Date_de_naissance>02/12/85</Date_de_naissance>
+                <Classe>4emA</Classe>
+                <Note>[['Math', '10', '14.5', '11', '15', '17', 15.54], ['PC', '11', '16', '16', 15.17], ['Francais', '16', '11', '13', 13.17], ['SVT', '12', '3', '17', '18', '12', 12.17], ['HG', '14', '12', '11', 11.67], ['Anglais', '13.5', '15', 14.5]]</Note>
+            </Etudiant>
+        
+            <Etudiant>
+                <Code>BMP019</Code>
+                <Numero>6G6F9F1</Numero>
+                <Nom>DEME</Nom>
+                <Prenom>Mahi</Prenom>
+                <Date_de_naissance>27/10/93</Date_de_naissance>
+                <Classe>3emB</Classe>
+                <Note>[['PC', '11', '11', '9', 9.67], ['Math', '14.15', '11', '13', 12.86], ['Francais', '14', '12', '13', 13.0], ['Anglais', '12.8', '15', 14.27], ['SVT', '10', '9', '16', '13', '12', 12.0], ['HG', '10', '16', 14.0]]</Note>
+            </Etudiant>
+        
+            <Etudiant>
+                <Code>BMP019</Code>
+                <Numero>BH54JJ6</Numero>
+                <Nom>DUBOIS</Nom>
+                <Prenom>Bachir</Prenom>
+                <Date_de_naissance>15/09/94</Date_de_naissance>
+                <Classe>5emA</Classe>
+                <Note>[['Math', '10', '15', '15', 14.17], ['Francais', '17', '9', '8', '13', 12.44], ['Anglais', '10.5', '9', '15', 13.25], ['PC', '10', '13', '11', 11.17], ['SVT', '12', '11', '16', '8', '12', 11.92], ['HG', '10', '10', 10.0]]</Note>
+            </Etudiant>
+        
+</ETUDIANTS>
