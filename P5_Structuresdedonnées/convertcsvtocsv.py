@@ -1,27 +1,17 @@
-import csv, json
-import xml.etree.ElementTree as AT
+import csv
 from mesfonction import*
 v=[]
 vi=[]
-vg=[]
-vig=[]
 
-#def transJson(csv_file,json_file):
 donne=[]
 with open('Donnees_Projet_Python_DataC5.csv','r+',encoding='UTF-8') as csvfile:
     lect=csv.DictReader(csvfile)
     for row in lect:
         donne.append(row)
-        #print(row)
-
-with open('Donnees_Projet_Python_DataC5.json','w',encoding='UTF-8') as jsonfile:
-    jsonfile.write(json.dumps(donne, indent=4))
 
 for i in donne:
     dico={}
     i["Classe"]=i["Classe"].strip()
-    for j in i["Classe"]:
-        i["Classe"]=i["Classe"][0]+"em"+i["Classe"][-1]
     numero=numerovalid(i["Numero"])
     nom=nomvalid(i["Nom"])
     prenom=prevalid(i["Pr\u00e9nom"])
@@ -40,11 +30,13 @@ for i in donne:
 
     else:
         vi.append(dico)
-
 #print(v)
+#headers=['CODE', 'Numero', 'Nom', 'Prénom', 'Date de naissance', 'Classe', 'Note']
+with open('donneesvalides.csv', 'w',encoding='UTF-8') as validcsv:    
+    bindeu=csv.DictWriter(validcsv,delimiter=',',fieldnames=['CODE', 'Numero', 'Nom', 'Prénom', 'Date de naissance', 'Classe', 'Note'])
+    bindeu.writerows(v)
 
-with open('donneesvalides.json','w',encoding='UTF-8') as validjson:
-    validjson.write(json.dumps(v, indent=4))
 
-with open('donneesinvalides.json','w',encoding='UTF-8') as invalidjson:
-    invalidjson.write(json.dumps(vi, indent=4))
+with open('donneesinvalides.csv', 'w',encoding='UTF-8') as invalidcsv:
+    bindeu=csv.DictWriter(invalidcsv,delimiter=',',fieldnames=['CODE', 'Numero', 'Nom', 'Prénom', 'Date de naissance', 'Classe', 'Note'])
+    bindeu.writerows(vi)
