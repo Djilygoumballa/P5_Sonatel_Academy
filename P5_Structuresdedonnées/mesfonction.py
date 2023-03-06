@@ -46,9 +46,6 @@ def modiclas(classe):
     
 def validdate(date):
     try:
-        for i in date:
-            if i==" ":
-                date.remove(i)
         date=date.strip()
         date=date.replace(' ','/').replace('-','/').replace('_','/').replace(',','/').replace('|','/').replace(':','/').replace('.','/').replace('mars','03').replace('fev','02').replace('decembre','12').replace('00','2000')
         cl=date.split('/')

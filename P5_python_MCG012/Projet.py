@@ -28,12 +28,12 @@ with open('Donnees_Projet_Python_DataC5.csv','r+') as f:
         classe=modiclas(i[5])
         nott= note(i[6])
         #print(nott)
-        if (numero==True and nom==True and prenom==True and date==True and classe==True and nott!=False):   
+        if (numero==True and nom==True and prenom==True and date!=False and classe==True and nott!=False):   
             #vd.append(infos)
             vd.append(i[1])
             vd.append(i[2])
             vd.append(i[3])
-            vd.append(i[4])
+            vd.append(date)
             vd.append(i[5])
             vd.append(nott)
             vdg.append(vd)
@@ -44,7 +44,7 @@ with open('Donnees_Projet_Python_DataC5.csv','r+') as f:
             vi.append(i[1])
             vi.append(i[2])
             vi.append(i[3])
-            vi.append(i[4])
+            vi.append(date)
             vi.append(i[5])
             vi.append(nott)   
             vig.append(vi)
@@ -59,7 +59,7 @@ print("3-ajouter une information en vérifiant la validité des informations don
 print("4-afficher les cinq premiers")
 print("5-modifier une information invalide ensuite le transférer dans la structure où se trouve les informations valides")
 print("6-sortir du programme")
-choix=int(input("choissiez un menu"))
+choix=int(input("choisissez un menu"))
 while choix in[1,2,3,4,5,]:
     if choix==1:
         ch=input("choisir les informations à afficher: valides ou invalides: ")
@@ -69,7 +69,7 @@ while choix in[1,2,3,4,5,]:
                 for j in range (len(i)):
                     print(i[j],end=(15-len(i[j]))*' ')
                 print("\n")
-                #print(len(vdg))
+            print(len(vdg))
         elif ch== "invalides":
             print(tabulate(vig,headers=['Numero','Nom','Prénom','Date de naissance','Classe','Note']))
             for i in vig:
