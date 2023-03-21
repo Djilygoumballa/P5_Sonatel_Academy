@@ -1,0 +1,43 @@
+a{
+    color: blue;
+}
+button{
+    color: aqua;
+    background-color: transparent;
+}
+button:hover{
+
+    color: aquamarine;
+    background-color: ;
+}
+
+.allignment{
+    top: 20px;
+    float: left;
+    display: flex;
+    flex: 1;
+    padding: 0 20px;
+}
+
+.nom{
+    color: bisque;
+    font-size: 50px;
+    padding-left: 1300px;
+    font-weight: bold;
+}
+
+.paragraph{
+    color: bisque;
+    font-size: 40px;
+    padding-left: 1300px;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.paragraph1{
+    color:ghostwhite;
+    font-size: 40px;
+    padding-left: 1300px;
+    font-style: italic;
+    font-weight: bold;
+}

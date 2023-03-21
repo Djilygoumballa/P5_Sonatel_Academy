@@ -1,0 +1,45 @@
+.carré{
+    width:1200px;
+    height: 150px;
+    border: 2px solid black;
+    background-color: red;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    display: flex;
+    margin: auto;
+}
+
+.carré1{
+    margin-top: 1em;
+    width:1800px;
+    height: 50px;
+    border: 2px solid black;
+    background-color:goldenrod;
+    justify-content: left;
+    margin-left: 1em;
+    align-items: center;
+    display: flex;
+    margin: 0.5em;
+    padding: 10px;
+}
+
+.carré2{
+    margin-top: 1em;
+    width:1800px;
+    height: 35px;
+    background-color:goldenrod;
+    justify-content: left;
+    margin-left: 1em;
+    align-items: center;
+    display: flex;
+    margin: 1em;
+    padding: 10px;
+}
+
+.FL::first-letter{
+    font-size: 3em;
+    color: red;
+    font-weight: bold;
+
+}
