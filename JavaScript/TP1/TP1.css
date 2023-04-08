@@ -1,0 +1,50 @@
+.general{
+    background-color: #61ffff;
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+    margin: 5% auto;
+    gap: 2px;
+    /* display: grid; */
+    padding: .3rem;
+    /* justify-content: flex-start;
+    align-content: first baseline; */
+}
+
+.general>button{
+    padding: .7rem;
+    width: 120px;
+    height: 50px;
+    grid-gap: 5px;
+    color: white;
+    background-color: yellowgreen;
+    border-radius: 10px;
+    align-items: center;
+    justify-content:center;
+}
+
+.butt{
+    margin-left: auto;
+}
+
+.cartes{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+.carte{
+    width: 265px;
+    height: 300px;
+    display: grid;
+    grid-template-rows: .5fr 4fr;
+    
+}
+.carte header{
+    background-color: yellowgreen;
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    justify-items: center;
+    padding-right: 10px;
+}
+

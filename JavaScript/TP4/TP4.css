@@ -1,0 +1,42 @@
+.ensemble{
+    width: 25%;
+    margin: auto;
+    padding: 40px;
+    background-color: rgb(30,2,57 );
+    border: 15px solid rgb(81, 22, 137);
+    margin-top: 100px;
+}
+
+label{
+    color: white;
+}
+
+.zt{
+    width: 80%;
+    height: 40px;
+    font-size: 20px;
+    color: white;
+    background-color:rgb(81, 22, 137) ;
+}
+
+.label{
+    margin-left: 40px;
+    float: left;
+    color: white;
+    font-size: 16.5px;
+}
+
+.input{
+    color: white;
+    margin-left: 300px;
+
+}
+
+.generermdp{
+    width: 55%;
+    padding: 25px;
+    font-size: 15px;
+    margin-left: 50px;
+    background-color: rgb(226, 198,43);
+    margin-top: 20px;
+}

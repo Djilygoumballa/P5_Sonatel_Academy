@@ -1,0 +1,71 @@
+button{
+    width:24%;
+    border-radius: 5px;
+    align-items: center;
+    text-align: center;
+    justify-content: space-between;
+    font-size: 25px;
+    color: white;
+}
+
+#Success{
+    background-color: green;
+}
+
+#Danger{
+    background-color: red;
+}
+
+#Warning{
+    background-color: rgb(201, 201, 29);
+}
+
+#Info{
+    background-color: blue;
+    
+}
+
+.pille{
+    width: 15%;
+    height: 40px;
+    border-radius: 5px;
+    margin-top: 20px;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.conteneur{
+    width: 70%;
+    color: gray;
+    border-radius: 10px;
+    margin: auto;
+    padding: 30px;
+    margin-top: 100px;
+    box-shadow: 0 0 2em black;
+}
+
+.Success{
+    background-color: green;
+    color: white;
+    font-size: 20px;
+}
+
+.Danger{
+    background-color: red;
+    color: white;
+    font-size: 20px;
+}
+
+.Warning{
+    background-color: rgb(201, 201, 29);
+    color: white;
+    font-size: 20px;
+}
+
+.Info{
+    background-color: blue;
+    color: white;
+    font-size: 20px;
+    
+}
